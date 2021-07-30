@@ -1,3 +1,6 @@
+**[View Live Preview](https://harris012.github.io/portfolio/)**
+
+
 ## Usage
 
 ### Basic Usage
