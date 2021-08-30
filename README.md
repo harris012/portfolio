@@ -1,7 +1,7 @@
 **[View Live Preview](https://harris012.github.io/portfolio/)**
 
 
-build## Usage
+## Usage
 
 ### Basic Usage
 
