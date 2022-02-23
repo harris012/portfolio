@@ -1,7 +1,7 @@
 /*!
-* Start Bootstrap - Resume v7.0.2 (https://harris012.github.io/portfolio)
-* Copyright 2013-2022 
-* Licensed under ISC (https://github.com/StartBootstrap/resume/blob/master/LICENSE)
+* Start Bootstrap - Resume v7.0.4 (https://harris012.github.io/portfolio)
+* Copyright 2013-2022 undefined
+* Licensed under undefined (https://github.com/StartBootstrap/resume/blob/master/LICENSE)
 */
 //
 // Scripts
