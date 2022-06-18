@@ -3,4 +3,4 @@
  - use cloudflare tunnels for port forwording solution.
 
  - [x] Stackoverflow link
- - [ ] Update Resume
+ - [ ] upgrade to blockchain domain
