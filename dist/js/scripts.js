@@ -1,5 +1,4 @@
 /*!
-* Resume v7.0.5 (https://harris012.github.io/portfolio)
 */
 //
 // Scripts
