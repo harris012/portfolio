@@ -1,4 +1,4 @@
-**[View Live Preview](https://harris012.github.io/portfolio/)**
+**[View Live Preview](http://www.harissaeed.com/)**
 
 
 ## Usage
