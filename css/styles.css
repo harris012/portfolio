@@ -10965,6 +10965,14 @@ a:active {
   /* ... */
 }
 
+.flag-pic {
+  float: middle;
+  clear: left;
+  width: 80px;
+  height: 50px;
+  /* ... */
+}
+
 section.resume-section {
   display: flex;
   align-items: center;
