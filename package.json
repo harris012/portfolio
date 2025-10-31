@@ -25,11 +25,12 @@
     ],
     "homepage": "https://harris012.github.io/portfolio",
     "dependencies": {
-        "bootstrap": "5.2.3"
+        "bootstrap": "5.2.3",
+        "serve-static": "^2.2.0"
     },
     "devDependencies": {
         "autoprefixer": "10.4.20",
-        "browser-sync": "^2.26.2",
+        "browser-sync": "^3.0.4",
         "chokidar": "3.6.0",
         "concurrently": "6.5.1",
         "gh-pages": "6.1.1",
